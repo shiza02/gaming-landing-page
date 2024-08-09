@@ -1,0 +1,34 @@
+<div class="Gaming" style="width: 1600px; height: 992px; position: relative; background: #18283A; border-radius: 50px; overflow: hidden">
+  <div class="Shapes" style="width: 2184.03px; height: 1634.76px; left: -139px; top: -246px; position: absolute">
+    <div class="Ellipse9" style="width: 613px; height: 565px; left: 1298px; top: 841px; position: absolute; background: #C84045"></div>
+    <div class="Ellipse10" style="width: 613px; height: 565px; left: 0px; top: 157px; position: absolute; background: #C84045"></div>
+    <div class="Ellipse11" style="width: 613px; height: 565px; left: 918px; top: 0px; position: absolute; background: #C84045"></div>
+    <div class="Background" style="width: 1702px; height: 1038px; left: 80px; top: 246px; position: absolute; background: rgba(24, 40, 58, 0.30); backdrop-filter: blur(600px)"></div>
+    <img class="Console2" style="width: 872.57px; height: 843.33px; left: 996px; top: 1160.56px; position: absolute; transform: rotate(-55.78deg); transform-origin: 0 0; opacity: 0.50; mix-blend-mode: overlay; box-shadow: 0px 36px 34.20000076293945px rgba(0, 0, 0, 0.25)" src="https://via.placeholder.com/873x843" />
+    <div class="Rectangle5" style="width: 630px; height: 706px; left: 245px; top: 386px; position: absolute; background: #C73F45; border-radius: 45px"></div>
+  </div>
+  <div class="Text" style="width: 674.58px; height: 666.62px; left: 69px; top: 165px; position: absolute">
+    <div class="Console" style="width: 658.89px; height: 163.43px; left: 0px; top: 664.85px; position: absolute; transform: rotate(-89.38deg); transform-origin: 0 0; opacity: 0.20; color: white; font-size: 125.03px; font-family: Bevan; font-weight: 400; letter-spacing: 12.50px; word-wrap: break-word">Console</div>
+    <div class="Console" style="width: 658.89px; height: 163.43px; left: 126px; top: 662.85px; position: absolute; transform: rotate(-89.38deg); transform-origin: 0 0; opacity: 0.40; color: white; font-size: 125.03px; font-family: Bevan; font-weight: 400; letter-spacing: 12.50px; word-wrap: break-word">Console</div>
+    <div class="Console" style="width: 658.89px; height: 163.43px; left: 252px; top: 660.85px; position: absolute; transform: rotate(-89.38deg); transform-origin: 0 0; opacity: 0.60; color: white; font-size: 125.03px; font-family: Bevan; font-weight: 400; letter-spacing: 12.50px; word-wrap: break-word">Console</div>
+    <div class="Console" style="width: 658.89px; height: 163.43px; left: 382px; top: 658.85px; position: absolute; transform: rotate(-89.38deg); transform-origin: 0 0; opacity: 0.80; color: white; font-size: 125.03px; font-family: Bevan; font-weight: 400; letter-spacing: 12.50px; word-wrap: break-word">Console</div>
+    <div class="Console" style="width: 658.89px; height: 163.43px; left: 504px; top: 658.85px; position: absolute; transform: rotate(-89.38deg); transform-origin: 0 0; opacity: 0.90; color: white; font-size: 125.03px; font-family: Bevan; font-weight: 400; letter-spacing: 12.50px; word-wrap: break-word">Console</div>
+  </div>
+  <div class="Shp" style="width: 1242px; height: 653px; left: 106px; top: 193px; position: absolute">
+    <div class="Rectangle4" style="width: 927px; height: 601px; left: 315px; top: 0px; position: absolute; background: linear-gradient(89deg, rgba(63.75, 29.48, 31.52, 0.25) 0%, rgba(113.78, 134.98, 150.87, 0.20) 98%); border-radius: 45px; backdrop-filter: blur(300px)"></div>
+    <img class="Console1" style="width: 582px; height: 579px; left: 0px; top: 74px; position: absolute; box-shadow: 0px 36px 34.20000076293945px rgba(0, 0, 0, 0.25)" src="https://via.placeholder.com/582x579" />
+  </div>
+  <div class="DivText" style="width: 592.39px; height: 485px; left: 704px; top: 222px; position: absolute">
+    <div class="DualSence" style="width: 592.39px; height: 90px; left: 0px; top: 0px; position: absolute; color: white; font-size: 85.97px; font-family: Barlow; font-weight: 800; letter-spacing: 8.60px; word-wrap: break-word">DUAL SENCE</div>
+    <div class="WirelessController" style="width: 528px; height: 67.43px; left: 0px; top: 97px; position: absolute; color: white; font-size: 36px; font-family: Barlow; font-weight: 400; letter-spacing: 3.60px; word-wrap: break-word">wireless controller</div>
+    <div class="7898" style="left: 0px; top: 171px; position: absolute; color: white; font-size: 36px; font-family: Barlow; font-weight: 600; letter-spacing: 3.60px; word-wrap: break-word">$78.98</div>
+    <div class="Colors" style="left: 0px; top: 250px; position: absolute; color: white; font-size: 36px; font-family: Barlow; font-weight: 600; letter-spacing: 3.60px; word-wrap: break-word">colors:</div>
+    <div class="Ellipse12" style="width: 30px; height: 30px; left: 151px; top: 261px; position: absolute; background: #C73F45; border-radius: 9999px"></div>
+    <div class="Ellipse13" style="width: 20px; height: 20px; left: 203px; top: 266px; position: absolute; background: #255D85; border-radius: 9999px"></div>
+    <div class="Ellipse14" style="width: 20px; height: 20px; left: 240px; top: 266px; position: absolute; background: #C7913F; border-radius: 9999px"></div>
+    <div class="Ellipse15" style="width: 20px; height: 20px; left: 277px; top: 266px; position: absolute; background: #5F9367; border-radius: 9999px"></div>
+    <div class="PlotACourserForAstronomicalAdventureOnPs5ConsoleWithDualsenseDiscoverADeeperHighlyImmersiveGamingExperienceThatBringActionToYourLifePalmsOfYourHands" style="left: 0px; top: 343px; position: absolute; color: white; font-size: 16px; font-family: Barlow; font-weight: 600; letter-spacing: 1.60px; word-wrap: break-word">plot a courser for astronomical adventure on PS5<br/>console with DualSense , discover a deeper highly<br/>immersive gaming experience*that bring action to<br/>your life ,palms of your hands </div>
+    <div class="Rectangle6" style="width: 136px; height: 46px; left: 0px; top: 439px; position: absolute; background: #C73F45; box-shadow: 0px 9px 11.600000381469727px rgba(147.69, 73.84, 77.10, 0.69); border-radius: 23px"></div>
+    <div class="AddToCart" style="left: 19px; top: 452px; position: absolute; color: #030303; font-size: 16px; font-family: Barlow; font-weight: 600; word-wrap: break-word">ADD TO CART</div>
+  </div>
+</div>
